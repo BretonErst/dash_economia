@@ -96,7 +96,7 @@ bslib::value_box(
 
 :::
 
-::: {.card title="Crecimiento Meensual del IGAE"}
+::: {.card title="Crecimiento Mensual del IGAE"}
 
 ```{r}
 #| label: variacion mes anterior global
@@ -195,7 +195,6 @@ df02 |>
                             length.out = 10),
                date_labels = "%Y_%m")
 ```
-
 
 :::
 
