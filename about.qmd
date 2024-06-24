@@ -2,7 +2,7 @@
 title: "Juan L. Bretón, PMP"
 about:
   template: jolla
-  image: images/icon_jlb.png
+  image: images/icon_jlb.jpg
 ---
 
 
